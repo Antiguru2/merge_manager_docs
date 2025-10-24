@@ -11,9 +11,6 @@
 ├── API.md               # Документация API
 ├── CHANGELOG.md         # История изменений
 ├── instructions/        # Инструкции и правила
-│   ├── ai_assistant_universal_rules.md
-│   ├── documentation_reading_guide.md
-│   ├── project_analysis_and_documentation.md
 │   └── project_documentation_rules.md
 └── workspace/           # Рабочие файлы
     └── tasks/
